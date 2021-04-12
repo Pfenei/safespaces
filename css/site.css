@@ -1,0 +1,142 @@
+body {
+    background-color: #cccccc;
+    background-image: url('https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
+
+.infopanel {
+    display: flex;
+    justify-content: center;
+}
+
+.navitems {
+    flex: content;
+    justify-content: center;
+}
+
+.cardp {
+    margin: 10px
+}
+.mypicture{
+    max-width: 250px;
+    max-height: 250px;
+}
+.safesplogo {
+    max-height: 175px;
+    max-width: 600px;
+
+}
+
+.childrensafespace {
+    border: 2px solid black;
+    width: 100%;
+}
+
+.infoimg {
+    display: flex;
+    justify-content: center;
+}
+
+.childrenh2 {
+    background-color: #f7f7f7;
+    border: 2px solid black;
+    margin-top: 3px;
+}
+
+.page2p {
+    line-height: 2;
+}
+
+.card {
+    margin-top: 25px;
+}
+
+.feminismp {
+    line-height: 2.5;
+    margin-top: 50px;
+}
+
+.diversityimg {
+    border: 2px solid black;
+    max-width: 100%;
+}
+
+.gayrights {
+    margin-top: 40px;
+}
+
+.queerlist {
+    text-align: left;
+}
+
+.diversityp {
+    background-color: #f7f7f7;
+    border: 2px solid black;
+    margin-top: 3px;
+}
+
+.page2list {
+    text-align: left;
+}
+
+.card-body {
+    height: 550px;
+    margin-bottom: 15px;
+    overflow-y: auto;
+    text-align: center;
+}
+.contactcard-body{
+    height:400px;
+}
+.bibliography {
+    height: 500px;
+    overflow-y: auto;
+    text-align: center;
+}
+
+.controlbtn {
+    height: 50px;
+    width: 50px;
+}
+
+.infocontainer {
+    background-color: lightgray;
+    height: 700px;
+    position: relative;
+    width: 80%;
+}
+
+.respectimg {
+    max-height: 250px!important;
+    max-width: 500px!important;
+}
+
+.page4firstp {
+    line-height: 2;
+}
+
+.feelingsimg {
+    border: 2px solid black;
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.infocol {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.infocolbtn {
+    display: grid;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.carouselindicators {
+    background-color: #f7f7f7;
+    margin: 0 !important;
+}
+
+.navbar {
+    z-index: 9;
+}
